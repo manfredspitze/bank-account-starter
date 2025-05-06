@@ -18,7 +18,7 @@ In this project, you'll learn three techniques for changing the value of an attr
 
 ### Coding Assignment
 
-- Create a new GitHub repo: bank-account
+- Name your copy of the starter repo: bank-account
 - Access the repo using GitHub Desktop
 - Open VS Code from GitHub Desktop and write your code
 - Transfer your code from GitHub Desktop to your online GitHub repo

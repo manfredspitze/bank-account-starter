@@ -56,4 +56,19 @@ Define the following methods in your `BankAccount` class:
 1. Define the `display_account_info` method with the parameter `self`.
 2. Inside the method, use an f-string to print a message showing the account holder's name and the balance.
 
+---
+
+## Creating an Instance of the `BankAccount` Class
+
+- Create an instance of your `BankAccount` class
+- Make yourself the account holder
+- Set a starting account balance of $1500
+- Then display the initial account info by calling the `display_account_info()` method (see the screenshot at top of page)bl
+- Change the balance of your account using the three techniques outlined in the directions
+  - Through direct assignment
+  - By using the `deposit()` (and then the `display_account_info()` method)
+  - By using the `withdraw()` (and then the `display_account_info()` method)
+- Also show what happens when you attempt to make an invalid withdraw from your account (using the `withdraw()` method)
+
+---
 

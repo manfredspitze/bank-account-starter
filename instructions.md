@@ -8,7 +8,11 @@
 
 - Define a new class named `BankAccount`
 - Add to the top of the class a docstring that reads: `A simple class that models a bank account.`
+---
 
+## Defining Your Methods
+
+Define the following methods in your `BankAccount` class:
 
 ### 1. `__init__` Method
 **Purpose:** Initialize the account holder's name and balance.
